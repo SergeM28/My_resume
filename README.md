@@ -14,3 +14,4 @@ Hello, my name is Serge and at the moment i am a student of the educational plat
 * Add content and images
 * In addition, i know the basics of programming, as well as the basics of working with the GIT version control system
 
+![my_photo](/img/serge-Muradian_05-1.jpg "Serge Mouradian")
